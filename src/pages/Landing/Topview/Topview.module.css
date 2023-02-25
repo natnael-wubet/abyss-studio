@@ -1,0 +1,48 @@
+.leftTexts {
+  text-align: initial !important;
+}
+.text {
+  text-align: initial !important;
+}
+.parent {
+  top: 0;
+}
+.carouselimage {
+  top: 0px !important;
+  width: 100vw !important;
+  overflow: hidden !important;
+  min-height: 100vh !important;
+  max-height: 100vh !important;
+  object-fit: cover;
+}
+.innercarouselitemleft {
+  top: 0px !important;
+
+  width: 75%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  height: 60vh !important;
+}
+.videoParent {
+  position: absolute;
+  z-index: 55;
+  top: 76vh;
+  width: 100vw;
+  align-content: center;
+  align-items: center;
+  display: flex;
+  padding: 0;
+  margin-bottom: 800px !important;
+}
+.videomargin {
+  margin-top: 350px !important;
+}
+.video {
+  margin: auto !important;
+  margin-bottom: 800px !important;
+  height: 410px !important;
+  width: 730px !important;
+}
+.leftimg {
+  object-fit: contain !important;
+}

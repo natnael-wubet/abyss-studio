@@ -1,0 +1,20 @@
+.parent {
+  background-color: #fff !important;
+  width: 100%;
+}
+.content {
+  height: 100% !important;
+  overflow-y: auto;
+  padding-bottom: 100px;
+}
+.bottomNav {
+  position: fixed;
+  padding: 10px 20px;
+  background-color: #fff;
+  border-radius: 25px 25px 0 0;
+
+  width: 100vw;
+  bottom: 0;
+  box-shadow: 0 0 36px 0px #44444477;
+  right: 0;
+}

@@ -1,0 +1,9 @@
+.parent {
+  display: block;
+  text-align: start;
+  padding: 14px;
+}
+.project {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}

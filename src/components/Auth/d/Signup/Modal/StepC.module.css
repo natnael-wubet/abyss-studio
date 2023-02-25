@@ -1,0 +1,15 @@
+.topText {
+  text-align: start;
+  word-spacing: 0%;
+  padding: 2px 20px;
+}
+.lottieBox {
+  width: 100px;
+  height: 100px !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+.cardTexts {
+  text-align: start;
+  word-spacing: 0%;
+}

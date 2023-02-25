@@ -1,0 +1,39 @@
+.parent {
+  margin-left: 0 !important;
+  position: fixed;
+  width: 100%;
+  padding-right: 10vw !important;
+  height: 100%;
+  top: 100px;
+}
+.modal {
+  height: 70vh !important;
+  margin: 0 !important;
+  width: 100%;
+
+  position: absolute !important;
+  top: 50% !important;
+  -ms-transform: translateY(-50%) !important;
+  transform: translateY(-50%) !important;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-radius: 15px;
+}
+.leftcorn {
+  margin-top: 10vw;
+  height: 100px;
+  position: fixed;
+  margin-left: 10vw;
+}
+.row {
+  height: 100vh;
+
+  margin-left: 0 !important;
+  margin-right: 10vw !important;
+}
+.col {
+  height: 200px;
+  margin-top: 10vh;
+  position: relative;
+  height: 90vh;
+}

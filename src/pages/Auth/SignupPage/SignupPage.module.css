@@ -1,0 +1,32 @@
+.leftBox {
+}
+.leftImage {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+.parent {
+  width: 70vw;
+}
+.logoPlace {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.logoPlace * {
+  color: #fff;
+}
+.leftContent {
+  display: block;
+  position: absolute;
+  padding: 20px;
+  border-radius: 15px;
+  top: 40%;
+  left: 7%;
+  backdrop-filter: blur(5px);
+  background-color: rgba(206, 206, 255, 0.076);
+  box-shadow: 0 10px 15px 0 rgba(255, 206, 206, 0.076);
+}
+.rightGrid {
+}

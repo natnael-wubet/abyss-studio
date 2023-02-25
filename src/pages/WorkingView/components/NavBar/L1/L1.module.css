@@ -1,0 +1,7 @@
+.parent {
+  width: 100vw;
+}
+.listParent {
+  width: 100vw;
+  display: -webkit-box !important;
+}

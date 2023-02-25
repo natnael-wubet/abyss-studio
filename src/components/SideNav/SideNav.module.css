@@ -1,0 +1,21 @@
+.custom {
+  position: fixed;
+  left: 10px;
+  margin-top: 10px;
+  width: 240;
+  display: inline-table;
+  margin-right: 10;
+  color: #000;
+}
+.firstItem {
+  border-radius: 15px 15px 0 0 !important;
+}
+.lastItem {
+  border-radius: 0 0 15px 15px !important;
+  overflow: hidden;
+}
+.drawerParent {
+  min-height: 80vh;
+
+  border-radius: 15px !important;
+}

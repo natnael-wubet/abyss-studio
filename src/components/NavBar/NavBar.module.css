@@ -1,0 +1,56 @@
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.logoLabel {
+  margin-right: 10px;
+  font-weight: 600;
+}
+.logoLabel .logoFirst {
+  color: rgb(247, 134, 134);
+}
+
+.logoPlace {
+  position: absolute;
+  top: 15px;
+  display: inline-flex;
+  left: 25px;
+  z-index: 10;
+}
+.buttons {
+  position: absolute;
+  top: 15px;
+  display: inline-flex;
+  right: 25px;
+  z-index: 10;
+}
+.parent {
+  padding-left: 10vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  background: white;
+  height: 60px;
+  width: 100vw;
+  display: contents;
+}
+.rightUserButtons {
+  float: right;
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+}
+.menus {
+  display: flex;
+  background: white;
+  z-index: 10;
+  width: 100%;
+  /* height: 100px; */
+  padding-left: 20%;
+  margin: auto !important;
+}
+.menulist {
+  background-color: white;
+}

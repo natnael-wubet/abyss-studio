@@ -1,0 +1,32 @@
+.contents {
+  background-color: #eeeeee22;
+  border-radius: 15px;
+  position: absolute;
+  top: 10px;
+
+  left: 100px;
+  z-index: 0;
+  min-width: 60vw;
+  min-height: 50vh;
+}
+.NavParent {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  z-index: 1;
+  background-color: #eeeeee22;
+  border-radius: 15px;
+  padding: 6px 15px;
+}
+.todoContainer {
+  position: absolute;
+  top: 100px;
+  right: 20px;
+  z-index: 1;
+  min-width: 10vw;
+  min-height: 30vh;
+
+  background-color: #eeeeee22;
+  border-radius: 15px;
+  padding: 6px 15px;
+}
